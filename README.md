@@ -25,6 +25,8 @@
 
 # Webpack Starter
 
+## Async y Await in JavaScript
+
 Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
 ### Notas:
